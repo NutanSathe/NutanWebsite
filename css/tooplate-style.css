@@ -742,7 +742,7 @@ b, strong {
 
 .uiux-card{
   position: relative;
-  background-image: url("/portfolio/portfolio/images/project/ui.jpg"); /* ❗ You should later fix this path */
+  background-image: url("../ui.jpg"); /* ❗ You should later fix this path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -792,7 +792,7 @@ b, strong {
 
 .Front-card {
   position: relative;
-  background-image: url("/portfolio/portfolio/images/project/web.jpg"); /* ✅ Replace with correct image path */
+  background-image: url("../web.jpg"); /* ✅ Replace with correct image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -840,7 +840,7 @@ b, strong {
 
 .digital-card {
   position: relative;
-  background-image: url("/portfolio/portfolio/images/project/digitalmarketing.jpg"); /* Update to your real image path */
+  background-image: url("../digitalmarketing.jpg"); /* Update to your real image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
